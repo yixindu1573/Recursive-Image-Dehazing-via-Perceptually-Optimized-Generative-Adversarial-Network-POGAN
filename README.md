@@ -22,6 +22,8 @@ If you use this code, please consider cite our work:
       booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
       year={2019}
     }
+    
+If you have any question, please contact yixindu1573@gmail.com
 
 We acknowledge and thank the author of SRGAN for sharing their source code:
     https://github.com/tensorlayer/srgan
