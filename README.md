@@ -9,11 +9,11 @@ To do testing:
     python main.py --mode=e
 
       
-To do training, put your original and hazy images in folder data/train_ori and data/train_haze respectively, then run:
+To do training, simply put original and hazy images in folder data/train_ori and data/train_haze respectively, then run:
 
     python main.py
     
-If you use this code, please cite our work:
+If you use this code, please consider cite our work:
 
 
     @inproceedings{du2019recursive,
