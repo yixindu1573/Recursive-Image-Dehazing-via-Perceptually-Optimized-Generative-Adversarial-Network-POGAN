@@ -13,7 +13,7 @@ To do training, simply put original and hazy images in folder data/train_ori and
 
     python main.py
     
-If you use this code, please consider cite our work:
+If find the code useful, please consider cite our work:
 
 
     @inproceedings{du2019recursive,
