@@ -1,5 +1,4 @@
 # Recursive-Image-Dehazing-via-Perceptually-Optimized-Generative-Adversarial-Network-POGAN
-Recursive Image Dehazing via Perceptually Optimized Generative Adversarial Network (POGAN)
 
 Here is the code for our paper entitled "Recursive Image Dehazing via Perceptually Optimized Generative Adversarial Network (POGAN)".
 
